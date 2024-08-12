@@ -29,3 +29,11 @@ print("str.upper() ===>>>",string.capitalize())  # output: Hello World
 
 # ===== Strip() and replace =========
 
+races = '3miles 5miles 10miles'
+# races.replace('miles','kilomiters')
+print(races) # this will not change the origin of the races varaible and prints out '3miles 5miles 10miles'
+
+# Now I am storing a new varialble 
+replaced_races = races.replace('miles','kilomiters')
+print(replaced_races)
+
