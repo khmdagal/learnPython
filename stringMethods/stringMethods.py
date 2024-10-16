@@ -21,11 +21,11 @@
 # The difference of the str.title() and str.capitalize() 
 # ===========
 
-string = 'hello world'
+# string = 'hello world'
 
-print("str.title() ===>>>",string.title());      # output: Hello World 
-print("str.upper() ===>>>",string.capitalize())  # output: Hello World
+# print("str.title() ===>>>",string.title());      # output: Hello World 
+# print("str.upper() ===>>>",string.capitalize())  # output: Hello World
 
 
 # ===== Strip() and replace =========
-
+product = " Prune Juice  "
