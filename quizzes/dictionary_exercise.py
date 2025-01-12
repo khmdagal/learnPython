@@ -60,3 +60,5 @@ peak.clear()
 print(peak)
 
 
+mystery = {1,2,3,4,5}
+print(mystery)
