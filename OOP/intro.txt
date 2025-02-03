@@ -1,0 +1,15 @@
+Class  vs Instances
+
+
+Class 
+class is the set of rules and blue print for what will the properties 
+of the instance the is made from this Class
+
+
+
+
+Instances
+
+Instances are what is made from that specific Class object
+so this instance can be very and completely different things
+but they all adhere the rules of the Class object
